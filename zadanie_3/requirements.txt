@@ -1,0 +1,8 @@
+# Podstawowe zależności
+# Brak zewnętrznych zależności - biblioteka używa tylko standardowej biblioteki Pythona
+
+# Zależności deweloperskie (opcjonalne)
+# pytest>=6.0
+# flake8>=4.0
+# black>=22.0
+# mypy>=0.900
